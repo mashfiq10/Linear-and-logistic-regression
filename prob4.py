@@ -1,9 +1,7 @@
 #!/usr/bin/python
 
 #############################################################
-# CS5783: Machine Learning #
-# Assignment 3: Linear Regressions #
-# Problem 4: Logistic regression #
+# Logistic regression #
 # Sk. Mashfiqur Rahman #
 # collect data from http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data #
 #############################################################
