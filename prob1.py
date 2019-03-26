@@ -1,9 +1,7 @@
 #!/usr/bin/python
 
 #############################################################
-# CS5783: Machine Learning #
-# Assignment 3: Linear Regressions #
-# Problem 1: Linear regressions: Polynomial basis functions #
+# Linear regressions: Polynomial basis functions #
 # Sk. Mashfiqur Rahman #
 #############################################################
 
